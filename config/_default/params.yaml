@@ -58,6 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-features:
+design:
+  theme: minimal
   custom_css:
     - css/custom.css
