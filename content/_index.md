@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: https://drive.google.com/file/d/1F_0L1gGMppzcdCnhte9RWWOMWHCIcKdt/view?usp=sharing
     design:
-      css_class: dark
+      css_class: emerald
       background:
         color: teal
         image:
