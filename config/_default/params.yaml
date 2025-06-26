@@ -60,3 +60,7 @@ features:
   privacy_pack:
     enable: false
 
+avatar:
+  gravatar: false
+  shape: circle
+  size: 200  # increase to 300 or more if you want larger
