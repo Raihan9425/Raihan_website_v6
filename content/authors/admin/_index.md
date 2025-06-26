@@ -119,7 +119,6 @@ awards:
 ---
 
 ## About Me
-
 MD. Raihanul Islam is an incoming graduate student in Earth and Planetary Sciences at the University of California, Riverside. He holds a BSc in Civil and Water Resources Engineering from the Military Institute of Science and Technology (MIST), Bangladesh. Raihanul began his professional journey at the Institute of Water Modelling (IWM) in 2019. Over nearly six years at IWM, he developed extensive expertise in geomorphological analysis, hydrodynamic modeling, and GIS-based assessments. His research interests center on river and delta morphodynamics. He has received specialized training in Computational Hydraulics, Hydrology, and Statistics for Water Management from the Bangladesh University of Engineering and Technology (BUET) and has authored four peer-reviewed publications in reputable scientific journals.
 
 
