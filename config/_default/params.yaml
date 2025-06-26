@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: #ff79c6;
+  color: sky
 
 # SEO
 marketing:
