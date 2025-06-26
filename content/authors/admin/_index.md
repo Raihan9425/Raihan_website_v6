@@ -49,13 +49,13 @@ interests:
   - Mathematical Modelling
 
 education:
-  - area: PhD Earth and Planetary Science
-    institution: '<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/UC_Riverside_Highlanders_logo.svg/1200px-UC_Riverside_Highlanders_logo.svg.png" alt="UCR" width="20"/> University of California, Riverside'
+  - area: '🟦 PhD Earth and Planetary Science'
+    institution: University of California, Riverside
     date_start: 2025-09-22
     date_end: 2030-09-22
 
-  - area: BSc Civil and Water Resources Engineering
-    institution: '<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Military_Institute_of_Science_and_Technology_crest.svg/1200px-Military_Institute_of_Science_and_Technology_crest.svg.png" alt="MIST" width="20"/> Military Institute of Science and Technology (MIST)'
+  - area: '🎖️ BSc Civil and Water Resources Engineering'
+    institution: Military Institute of Science and Technology (MIST)
     date_start: 2015-03-01
     date_end: 2019-01-31
 
