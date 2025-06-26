@@ -49,7 +49,7 @@ interests:
   - Mathematical Modelling
 
 education:
-  - icon: /workspaces/Raihan_website_v6/content/authors/admin/ucr logo.jpg
+  - icon: ucr_logo
     area: PhD Earth and Planetary Science, 2030 (est.)
     institution: University of California, Riverside
     date_start: 2025-09-22
@@ -89,7 +89,21 @@ skills:
       - name: Python
         percent: 70
         icon: command-line
- languages:
+  - name: ''
+    color: '#1b998b'
+    color_border: '#28b6a3'
+    items:
+      - name: ''
+        percent: 80
+        icon: camera
+      - name: ''
+        percent: 90
+        icon: plane
+      - name: ''
+        percent: 70
+        icon: book-open
+
+languages:
   - name: English
     percent: 100
   - name: Bengali
