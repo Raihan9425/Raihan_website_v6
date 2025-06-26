@@ -21,7 +21,7 @@ sections:
     design:
       css_class: emerald
       background:
-        color: teal
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: 
