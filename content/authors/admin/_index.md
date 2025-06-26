@@ -49,7 +49,7 @@ interests:
   - Mathematical Modelling
 
 education:
-  - icon: custom/ucr_logo
+  - icon: /workspaces/Raihan_website_v6/content/authors/admin/ucr logo.jpg
     area: PhD Earth and Planetary Science, 2030 (est.)
     institution: University of California, Riverside
     date_start: 2025-09-22
