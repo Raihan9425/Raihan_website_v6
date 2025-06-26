@@ -51,7 +51,7 @@ interests:
 education:
   - area: PhD Earth and Planetary Science
     institution: University of California, Riverside
-    icon: "custom/ucr_logo"
+    icon: custom/ucr_logo
     date_start: 2025-09-22
     date_end: 2030-09-22
   - area: BSc Civil and Water Resources Engineering
