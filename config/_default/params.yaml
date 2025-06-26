@@ -58,3 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+avatar:
+  gravatar: false
+  shape: circle  # or square
+  size: 200  # default is 150; increase this (e.g., 200 or 250)
