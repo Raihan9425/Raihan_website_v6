@@ -11,7 +11,7 @@ last_name: Islam
 
 # Status emoji
 status:
-  icon: 🏞
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +51,7 @@ interests:
 education:
   - area: PhD Earth and Planetary Science
     institution: University of California, Riverside
-    icon: /workspaces/Raihan_website_v6/content/authors/admin/ucr logo.jpg
+    icon: "custom/ucr_logo"
     date_start: 2025-09-22
     date_end: 2030-09-22
   - area: BSc Civil and Water Resources Engineering
