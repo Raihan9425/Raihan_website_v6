@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: 
           filters:
-            brightness: 100
+            brightness: 10
           size: cover
           position: center
           parallax: false
@@ -116,10 +116,10 @@ sections:
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: https://hugoblox.com/templates/ 
     design:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-        css_style: ""
+            css_style: ""
 ---

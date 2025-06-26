@@ -1,5 +1,5 @@
 /* Fix faded bio text */
 .bio, .hero-lead, .text-muted {
   color: #000000 !important;  /* Force solid black */
-  opacity: 1 !important;
+  opacity: 0 !important;
 }
