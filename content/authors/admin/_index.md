@@ -95,13 +95,13 @@ skills:
     items:
       - name: ''
         percent: 80
-        icon: camera
+        icon: ''
       - name: ''
         percent: 90
-        icon: plane
+        icon: ''
       - name: ''
         percent: 70
-        icon: book-open
+        icon: ''
 
 languages:
   - name: English
