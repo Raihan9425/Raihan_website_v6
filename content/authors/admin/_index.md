@@ -89,21 +89,7 @@ skills:
       - name: Python
         percent: 70
         icon: command-line
-  - name: Hobbies
-    color: '#1b998b'
-    color_border: '#28b6a3'
-    items:
-      - name: Photography
-        percent: 80
-        icon: camera
-      - name: Travel
-        percent: 90
-        icon: plane
-      - name: Reading Non-fiction
-        percent: 70
-        icon: book-open
-
-languages:
+ languages:
   - name: English
     percent: 100
   - name: Bengali
@@ -115,7 +101,7 @@ awards:
     awarder: Military Institute of Science and Technology (MIST)
     icon: ''
     summary: |
-      Title of the poster: "Planform Changes of the Ganges-Yamuna Confluence and Its Relation to Flood"
+      Title of the poster: "Planform Changes of the Ganges-Jamuna Confluence and Its Relation to Flood"
 
 ---
 
