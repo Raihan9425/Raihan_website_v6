@@ -63,7 +63,7 @@ work:
   - position: Junior Engineer
     company_name: Institute of Water Modelling
     company_url: https://iwmbd.org/Portfolio/RHL
-    company_logo: ''
+    company_logo: iwm logo
     date_start: 2019-12-10
     date_end: 2025-09-04
     summary: |2-
