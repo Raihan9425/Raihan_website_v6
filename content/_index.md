@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://drive.google.com/file/d/1F_0L1gGMppzcdCnhte9RWWOMWHCIcKdt/view?usp=sharing
+        url: /workspaces/Raihan_website_v4/static/uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: 
           filters:
-            brightness: 10
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
@@ -116,10 +116,10 @@ sections:
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
       button:
         text: Get Started
-        url: https://hugoblox.com/templates/ 
+        url: https://hugoblox.com/templates/
     design:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
-            css_style: ""
+        css_style: ""
 ---
