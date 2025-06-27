@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "1rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -30,7 +30,26 @@ sections:
           size: cover
           position: center
           parallax: false
-    - block: collection
+  - block: 
+    content:
+      title: 
+      subtitle: ''
+      text: |-
+       
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: ''
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     content:
       title: Publications
       text: ""
@@ -40,7 +59,23 @@ sections:
         exclude_featured: false
     design:
       view: citation
-        # Page type to display. E.g. post, talk, publication...
+  - block: collection
+    id: talks
+    content:
+      title: ''
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
+    id: news
+    content:
+      title: ''
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
