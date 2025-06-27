@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
        design:
       view: article-grid
       columns: 1
@@ -41,8 +40,8 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
-         # Page type to display. E.g. post, talk, publication...
+        exclude_featured: false   
+      # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
