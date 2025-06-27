@@ -7,7 +7,7 @@
 appearance:
   theme_day_night: false    # disables user/system switching
   theme: light              # force light mode
-  
+
 # SEO
 marketing:
   seo:
@@ -59,3 +59,5 @@ features:
   privacy_pack:
     enable: false
 
+    
+stylesheets: ["css/force-light.css"]
