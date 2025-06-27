@@ -92,17 +92,7 @@ skills:
   - name: ''
     color: '#1b998b'
     color_border: '#28b6a3'
-    items:
-      - name: ''
-        percent: 
-        icon: ''
-      - name: ''
-        percent: 
-        icon: ''
-      - name: ''
-        percent: 
-        icon: ''
-
+   
 languages:
   - name: English
     percent: 100
