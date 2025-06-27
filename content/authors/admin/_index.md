@@ -94,13 +94,13 @@ skills:
     color_border: '#28b6a3'
     items:
       - name: ''
-        percent: 80
+        percent: 
         icon: ''
       - name: ''
-        percent: 90
+        percent: 
         icon: ''
       - name: ''
-        percent: 70
+        percent: 
         icon: ''
 
 languages:
