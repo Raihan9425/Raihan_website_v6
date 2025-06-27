@@ -60,4 +60,3 @@ features:
   privacy_pack:
     enable: false
 
-stylesheets: ["css/avatar-bigger.css"]
