@@ -5,10 +5,9 @@
 
 # Appearance
 appearance:
-  theme_day: light
-  theme_night: light
-  font: minimal
-  font_size: XL
+  theme_day_night: false    # disables user/system switching
+  theme: light              # force light mode
+  
 # SEO
 marketing:
   seo:
