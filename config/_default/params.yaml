@@ -60,7 +60,4 @@ features:
   privacy_pack:
     enable: false
 
-avatar:
-  gravatar: false
-  shape: circle
-  size: 500  # increase to 300 or more if you want larger
+stylesheets: ["css/avatar-bigger.css"]
