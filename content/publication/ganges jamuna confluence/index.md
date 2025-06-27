@@ -1,15 +1,13 @@
 ---
-title: "Reconstruction of avulsion history of the Brahmaputra River: Rare example of a giant braided river course alteration through multi-channel multi-avulsion processes"
+title: "Plan form changes of the Ganges-Jamuna confluence and its relation to flood"
 authors:
 - Islam, M. R.
-- Khan, I.
-- Salim, M. A.
-- Musfequzzaman, M.
-date: 2024-01-01
-doi: "10.1016/j.eve.2024.100034"
-publication: "Evolving Earth, Elsevier"
+- Islam, A. Z.
+date: 2021-01-01
+doi: "10.1016/j.rsase.2021.100525"
+publication: "Remote Sensing Applications: Society and Environment, Elsevier, Volume-22"
 publication_short: ""
-url_pdf: "https://doi.org/10.1016/j.eve.2024.100034"
+url_pdf: "https://doi.org/10.1016/j.rsase.2021.100525"
 tags:
 - River Morphology
 featured: true
