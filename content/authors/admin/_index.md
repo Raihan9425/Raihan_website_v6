@@ -76,6 +76,8 @@ work:
 
 skills:
   - name: Technical Skills
+    color: #000000
+    color_border: #d3d3d3
     items:
       - name: Remote Sensing & GIS
         percent: 90
