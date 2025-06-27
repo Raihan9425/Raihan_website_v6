@@ -10,5 +10,5 @@ publication_short: ""
 url_pdf: "https://doi.org/10.1016/j.rsase.2021.100525"
 tags:
 - River Morphology
-featured: true
+featured: false
 ---

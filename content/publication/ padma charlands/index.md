@@ -11,5 +11,5 @@ publication_short: ""
 url_pdf: "https://doi.org/10.1016/j.rines.2025.100075"
 tags:
 - River Morphology
-featured: true
+featured: false
 ---

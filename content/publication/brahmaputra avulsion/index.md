@@ -12,5 +12,5 @@ publication_short: ""
 url_pdf: "https://doi.org/10.1016/j.eve.2024.100034"
 tags:
 - River Morphology
-featured: true
+featured: false
 ---
