@@ -90,8 +90,8 @@ skills:
         percent: 70
         icon: command-line
   - name: ''
-    color: '#1b998b'
-    color_border: '#28b6a3'
+    color: #000000
+    color_border: #d3d3d3
    
 languages:
   - name: English
