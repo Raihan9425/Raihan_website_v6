@@ -8,6 +8,8 @@ appearance:
   theme_day_night: false    # disables user/system switching
   theme: light              # force light mode
 
+stylesheets: ["css/pub-buttons.css"]
+
 # SEO
 marketing:
   seo:
@@ -60,5 +62,4 @@ features:
     enable: false
 
     
-stylesheets: ["css/force-light.css"]
-stylesheets: ["css/publication-buttons.css"]
+
