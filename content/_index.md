@@ -32,10 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ''
+      title: 
       subtitle: ''
       text: |-
-       ''
+       
     design:
       columns: '1'
   - block: collection
