@@ -30,25 +30,10 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: 
-    content:
-      title: 
-      subtitle: ''
-      text: |-
-       
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: ''
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
+
+       design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Publications
@@ -57,25 +42,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: ''
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: ''
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
+         # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
