@@ -1,6 +1,6 @@
 /* static/css/avatar-bigger.css  */
 :root {
-  --avatar-size: 220px;        /* <- change just this number */
+  --avatar-size: 420px;        /* <- change just this number */
 }
 
 #profile img.avatar,
